@@ -1,0 +1,12 @@
+Note 3-6-2026
+Purchased Nand2Tetris course on Coursera to refresh the foundation and rebuild logic design from simple gates upwards.
+The course is divided into 6 weekly projects (i am not sure if i will finish the course , i needed the course to referesh my knowledge but if i found it interesting then why not.):
+
+Week1: Elementary Logic gates (And, Nand, Nor, Xor, Or, Mux, Dmun, etc....)
+Week2: Arithmetic Logic Unit (ALU) {HalfAdder, FullAdder, Add16, Inc16, ALU}
+Week3: Registers and Memory (Bit, Register, RAM8, RAM64, RAM512, RAM4k, RAM16k, PC)
+Week4: Writing Low-level programs
+Week5: Computer Architect (Memory, CPU, Computer)
+Week6: Developing an Assembler
+
+Maybe i will indeed finish the course, seems very interesting and going to learn a new HDL other then what i know (Verilog, SystemVerilog).
