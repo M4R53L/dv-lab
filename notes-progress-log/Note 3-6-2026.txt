@@ -9,4 +9,6 @@ Week4: Writing Low-level programs
 Week5: Computer Architect (Memory, CPU, Computer)
 Week6: Developing an Assembler
 
-Maybe i will indeed finish the course, seems very interesting and going to learn a new HDL other then what i know (Verilog, SystemVerilog).
+Since the Course is thought in HDL and not Verilog/SystemVerilog, i think now its not the time to learn new HDL. So i am going to make the "Elementary Logic gates project 1"  in sv and 
+build the tests myself. For each Week/Project, there is going to be a related pdf file for tracking progress...
+
